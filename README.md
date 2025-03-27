@@ -26,3 +26,16 @@ _**©** Team 'Pythonophiles', 2024_
 ## GitHub Repository
 Click [here](https://github.com/Vedant-Savani/Python_M_Sem_1_24) to access the repository.
 
+
+![](ss1.png)
+
+
+![](ss2.png)
+
+
+![](ss3.png)
+
+
+![](ss4.png)
+
+
